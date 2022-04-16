@@ -9,7 +9,7 @@ Assalamualaikum,
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhad-DSU&theme=tokyonight)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Ashhad-DSU)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashhad-dsu&layout=compact)](https://github.com/Ashhad-DSU)
 
 
 
