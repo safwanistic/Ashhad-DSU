@@ -5,7 +5,7 @@ Assalamualaikum,
 - This is Muhammad Ashhad Safwan, a Computer Science Sophomore at DHA Suffa University, one of the fastest growing universities in Pakistan.
 - Feel free to email me any queries at "m_ashhadhlr@yahoo.com"
 
-	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
 ![Muhammad Ashhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashhad-DSU&show_icons=true)
 
