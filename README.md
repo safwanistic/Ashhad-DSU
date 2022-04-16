@@ -11,9 +11,6 @@ Assalamualaikum,
 <h3>Learning more about the technologies from:</h3>
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"> <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860"> <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"> <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"> <img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white">
 
-<h3>Get connected with me:</h3>
-
-
 ![Muhammad Ashhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashhad-DSU&show_icons=true)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhad-DSU&theme=tokyonight)-->
