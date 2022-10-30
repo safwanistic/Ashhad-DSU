@@ -8,6 +8,8 @@ Assalamualaikum,
 
 ![Muhammad Ashhad's github stats](https://github-readme-stats.vercel.app/api?username=Ashhad-DSU)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhad-DSU)](https://github.com/Ashhad-DSU/github-readme-stats)
+
 
 <!---![Muhammad Ashhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashhad-DSU&show_icons=true)-->
 
