@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Ashhad-DSU&color=orange)
+![](https://komarev.com/ghpvc/?username=safwanistic&color=orange)
 
 Assalamualaikum,
 
@@ -6,9 +6,9 @@ Assalamualaikum,
 - Flutter Developer / UI-UX Designer
 - Feel free to email me any queries at "m_ashhadhlr@yahoo.com"
 
-![Muhammad Ashhad's github stats](https://github-readme-stats.vercel.app/api?username=Ashhad-DSU)
+![Muhammad Ashhad's github stats](https://github-readme-stats.vercel.app/api?username=safwanistic)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhad-DSU)](https://github.com/Ashhad-DSU/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safwanistic)](https://github.com/safwanistic/github-readme-stats)
 
 
 <!---![Muhammad Ashhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashhad-DSU&show_icons=true)-->
