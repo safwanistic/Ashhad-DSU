@@ -2,8 +2,8 @@
 
 Assalamualaikum,
 
-- This is Muhammad Ashhad Safwan, a Computer Science Junior at DHA Suffa University, one of the fastest growing universities in Pakistan.
-- Flutter Developer / UI-UX Designer
+- This is Muhammad Ashhad Safwan, a Computer Science Senior at DHA Suffa University, one of the fastest-growing universities in Pakistan.
+- React Native Enthusiast
 - Feel free to email me any queries at "m_ashhadhlr@yahoo.com"
 
 ![Muhammad Ashhad's github stats](https://github-readme-stats.vercel.app/api?username=safwanistic)
